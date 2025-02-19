@@ -105,7 +105,6 @@ namespace Exercise1
                 }
             }
             Console.WriteLine(Fibonacci.GetNumber(count2));
-
         }
     }
 }
